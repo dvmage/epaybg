@@ -1,0 +1,15 @@
+app/code/local/CeckosLab/Epaybg app/code/local/CeckosLab/Epaybg
+app/design/adminhtml/default/default/layout/epaybg.xml app/design/adminhtml/default/default/layout/epaybg.xml
+app/design/adminhtml/default/default/template/epaybg app/design/adminhtml/default/default/template/epaybg
+app/design/frontend/base/default/layout/epaybg.xml app/design/frontend/base/default/layout/epaybg.xml
+app/design/frontend/base/default/template/epaybg app/design/frontend/base/default/template/epaybg
+app/etc/modules/CeckosLab_Epaybg.xml app/etc/modules/CeckosLab_Epaybg.xml
+app/locale/en_US/CeckosLab_Epaybg.csv app/locale/en_US/CeckosLab_Epaybg.csv
+app/locale/en_US/template/email/epaybg app/locale/en_US/template/email/epaybg
+app/locale/en_US/template/email/sales/epay_idn_message.html app/locale/en_US/template/email/sales/epay_idn_message.html
+app/locale/bg_BG/CeckosLab_Epaybg.csv app/locale/bg_BG/CeckosLab_Epaybg.csv
+app/locale/bg_BG/template/email/epaybg app/locale/bg_BG/template/email/epaybg
+app/locale/bg_BG/template/email/sales/epay_idn_message.html app/locale/bg_BG/template/email/sales/epay_idn_message.html
+skin/adminhtml/default/default/epaybg.css skin/adminhtml/default/default/epaybg.css
+skin/adminhtml/default/default/images/epaybg skin/adminhtml/default/default/images/epaybg
+skin/frontend/base/default/images/epaybg skin/frontend/base/default/images/epaybg
