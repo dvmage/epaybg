@@ -1,0 +1,15 @@
+{
+    "name": "dvmage/epaybg",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"ePay.bg Payment Module",
+    "authors":[
+        {
+            "name":"Tsvetan Stoychev",
+            "email":"ceckoslab@github.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
